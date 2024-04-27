@@ -1,0 +1,13 @@
+ipykernel
+uproot==5.3.3
+vector
+awkward-pandas
+numpy>=1.13.1
+scipy
+xxhash
+lz4
+zstandard
+pandas
+matplotlib
+lorentz
+mplhep
