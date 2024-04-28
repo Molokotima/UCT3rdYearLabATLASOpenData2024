@@ -1,1 +1,1 @@
-*.ipynb filter=jupyternotebook
+*.ipynb filter=strip-notebook-output
